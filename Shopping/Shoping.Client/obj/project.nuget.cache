@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXyrroFwc811g+/PImSB+9oxBY0K55IfDkqgsCpP86lMSotEjQh60U8AMYSbufujh6o9mura+F1D+6NrUENAwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ochoa\\OneDrive\\Documentos\\ShoppingCartMicroservice\\Shopping\\Shoping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ochoa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
